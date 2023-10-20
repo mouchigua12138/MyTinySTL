@@ -5,8 +5,7 @@
 
 #include <cassert>
 
-namespace mystl
-{
+namespace mystl {
 
 #define MYSTL_DEBUG(expr) \
   assert(expr)  
